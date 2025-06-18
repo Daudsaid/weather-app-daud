@@ -8,7 +8,7 @@ A responsive and elegant weather forecast application built with **React.js**. G
 
 ## 🚀 Live Demo
 
-🌍 **[weather-app-daud.vercel.app](https://weather-app-daud.vercel.app)** — *Live and deployed on Vercel*
+🌍 **[weather-app-daud.vercel.app](https://weather-app-daud.vercel.app/)** — *Live and deployed on Vercel*
 
 ---
 
